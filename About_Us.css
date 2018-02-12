@@ -1,0 +1,10 @@
+body{
+    background-color: AliceBlue;
+}
+
+h1 {
+    color: Black;
+    text-align: center;
+    border: 15px double;
+    
+}

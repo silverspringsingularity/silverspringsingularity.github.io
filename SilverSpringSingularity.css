@@ -1,0 +1,29 @@
+body{
+    background-color: AliceBlue;
+}
+
+h1 {
+    color: Black;
+    text-align: center;
+    border: 15px double;
+    
+}
+
+#bar {
+    text-transform: uppercase;
+    text-align: center;
+    background-color: SteelBlue;
+    font-size: 20px;
+    border-style: groove;
+    border-color: white;
+    padding: 5px;
+}
+
+#bar li {
+    padding: 80px;
+    display: inline;
+}
+
+#bar a{
+    color: white;
+}
